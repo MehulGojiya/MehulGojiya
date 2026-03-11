@@ -1,14 +1,11 @@
 # About_Me
 All about me
 
-### Hi there, I'm <a href="" target="_blank">Satish Dhawale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="" target="_blank">Mehul Gojiya</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https:https://www.linkedin.com/in/mehul-gojiya-316aa439b/)
 
-
-
-### Hii There, I am Mehul Gojiya &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
-
+### &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 Happy to see you here!
 
 I am an aspiring Data Analyst passionate about turning raw data into meaningful insights. I am currently building projects using SQL, Excel, and Power BI to analyze data, create interactive dashboards, and solve real-world business problems.
