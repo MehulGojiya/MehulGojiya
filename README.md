@@ -10,7 +10,7 @@ Happy to see you here!
 
 I am an aspiring Data Analyst passionate about turning raw data into meaningful insights. I am currently building projects using SQL, Excel, and Power BI to analyze data, create interactive dashboards, and solve real-world business problems.
 
-<img align="right" alt="GIF" src="https://github.com/MehulGojiya/MehulGojiya/blob/a56b2b7f80a4e634434dbba46d4ff1d6bb2776e6/all_about_me.png" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/MehulGojiya/MehulGojiya/blob/15e4dbc3bbec16f349c1a467ddbf8c46a1e4192b/banner.jpeg" width="400" height="225" />
   
 
 **Talking about Personal Stuffs:**
