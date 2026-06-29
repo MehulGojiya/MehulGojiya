@@ -1,25 +1,28 @@
-# About_Me
-All about me
+## all About Me
 
-### Hi there, I'm <a href="" target="_blank">Mehul Gojiya</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm **Mehul Gojiya**, an aspiring **Data Analyst** passionate about transforming data into actionable business insights.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mehul-gojiya-316aa439b)
+Currently pursuing my undergraduate degree, I am developing practical experience through projects in **Python, SQL, Power BI, Excel, and Exploratory Data Analysis (EDA)**. I enjoy analyzing datasets, building interactive dashboards, and identifying trends that help solve real-world business problems.
 
-### &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
-Happy to see you here!
+ **Core Skills**
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
 
-I am an aspiring Data Analyst passionate about turning raw data into meaningful insights. I am currently building projects using SQL, Excel, and Power BI to analyze data, create interactive dashboards, and solve real-world business problems.
+##  What I'm Working On
 
-<img align="right" alt="GIF" src="https://github.com/MehulGojiya/MehulGojiya/blob/15e4dbc3bbec16f349c1a467ddbf8c46a1e4192b/banner.jpeg" width="400" height="225" />
-  
+- 📊 Building real-world Data Analytics projects
+- 🐍 Practicing Python for Data Cleaning and EDA
+- 🗄️ Improving SQL for business analysis
+- 📈 Creating interactive Power BI dashboards
+- 📚 Continuously learning Business Intelligence concepts
 
-**Talking about Personal Stuffs:**
-
-- 📊 I’m currently learning and building Data Analytics projects
-- 🧠 Exploring SQL, Data Visualization, and Business Intelligence
-- 🚀 Interested in Data Analysis, Dashboards, and Business Insights
-- 💬 Ask me about SQL, Excel, and Power BI
-
-
-</br>
+🎯 **Goal**
+To contribute to data-driven decision-making as a Data Analyst while continuously learning and building impactful analytics solutions.
 
